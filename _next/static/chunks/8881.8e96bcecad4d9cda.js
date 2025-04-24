@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8881],{58881:function(i){i.exports=JSON.parse('{"collection":"https://iiif.archive.org/iiif/3/mow-aw/collection.json"}')}}]);
