@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mathewjordan.github.io/memory-of-the-world-aruba
+
+# Sitemaps
+Sitemap: https://mathewjordan.github.io/memory-of-the-world-aruba/sitemap.xml
